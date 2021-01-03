@@ -1,0 +1,216 @@
+  .m_20p{
+    margin-bottom: 20px;
+  }
+
+  .p1 {
+    background: white;
+    font-weight: bold;
+    cursor: pointer;
+    padding: 5px;
+  }
+  .p1:hover{
+     background: #ccc;
+  }
+  .s1 {
+    color: red;
+  }
+  /*;;;;;;;*/
+   .p2 {
+    color: black;
+    margin: 5px;
+    cursor: pointer;
+  }
+  .p2:hover {
+    background: #ccc;
+  }
+  /*event.data start*/
+  .d_1 {
+    height: 100px;
+    width: 300px;
+    margin: 10px;
+    background-color: #ffd;
+    overflow: auto;
+  }
+   ul {
+    margin-left: 20px;
+    color: blue;
+  }
+  li {
+    cursor: default;
+  }
+  span {
+    color: red;
+  }
+
+  .out {
+    width: 40%;
+    height: 120px;
+    margin: 0 15px;
+    background-color: #d6edfc;
+    float: left;
+  }
+  .in {
+    width: 60%;
+    height: 60%;
+    background-color: #fc0;
+    margin: 10px auto;
+  }
+  .p5 {
+    line-height: 1em;
+    margin: 0;
+    padding: 0;
+  }
+
+
+.b2{
+    margin: 5px;
+  }
+  button#theone {
+    color: red;
+    background: yellow;
+  }
+
+
+   .dv{
+    width: 60px;
+    height: 60px;
+    margin: 5px;
+    float: left;
+    background: green;
+    border: 10px outset;
+    cursor:pointer;
+  }
+  .p7{
+    color: red;
+    margin: 0;
+    clear: left;
+  }
+
+
+  .dv1{
+    color: blue;
+  }
+  .p8{
+    color: green;
+  }
+  .sp1{
+    color: red;
+    display: none;
+  }
+
+  .p9{
+    margin: 0;
+    color: blue;
+  }
+  ..dv2 ,.p9 {
+    margin-left: 10px;
+  }
+  .sp2 {
+    color: red;
+  }
+
+
+   /*jquery  ui  start*/
+   .div_1 {
+    width: 100px;
+    height: 100px;
+    background-color: #ccc;
+  }
+  .big-blue {
+    width: 200px;
+    height: 200px;
+    background-color: #00f;
+  }
+
+  #toggle {
+    width: 100px;
+    height: 100px;
+    background: #ccc;
+  }
+
+  #elem {
+    color: #006;
+    background-color: #aaa;
+    font-size: 25px;
+    padding: 1em;
+    text-align: center;
+  }
+
+
+   .clipped {
+    position: absolute;
+    width: 150px;
+    height: 150px;
+    background: #3b679e;
+    background: linear-gradient(to bottom, #3b679e 0%, #2b88d9 50%, #207cca 51%, #7db9e8 100%);
+  }
+  #toggle2 {
+    margin-top: 50px;
+    width: 100px;
+    height: 100px;
+    background: #ccc;
+  }
+
+
+
+   .elem {
+    position: absolute;
+    width: 150px;
+    height: 150px;
+    background: #3b679e;
+  }
+
+
+
+
+  .green {
+    margin-top: 200px;
+    width: 100px;
+    height: 80px;
+    background: green;
+    border: 1px solid black;
+    position: relative;
+  }
+  .red {
+    margin-top: 10px;
+    width: 50px;
+    height: 30px;
+    background: red;
+    border: 1px solid black;
+    position: relative;
+  }
+  .ui-effects-transfer {
+    border: 1px dotted black;
+  }
+
+
+
+#draggable {
+    width: 100px;
+    height: 100px;
+    background: #ccc;
+  }
+
+
+
+  #resizable {
+    width: 100px;
+    height: 100px;
+    background: #ccc;
+}
+
+
+input, a, .p_a{
+    border: 1px solid #000;
+  }
+ .div_p{
+    padding: 5px;
+  }
+
+
+ #slider { margin: 10px; }
+
+
+
+ label { display: block; }
+ select { width: 200px; }
